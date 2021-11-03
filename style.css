@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #e5e5e5;
+}
+h1 {
+  margin: unset;
+  text-align: center;
+  background-color: #c4c4c4;
+  line-height: 29.64px;
+  color: #005677;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  padding-top: 14.13px;
+  padding-bottom: 16px;
+  letter-spacing: 10px;
+}
+
+.logo {
+  position: relative;
+  margin: 0 auto;
+  display: block;
+  padding: 21px 0;
+}
+h2 {
+  background-color: #c4c4c4;
+  color: #005677;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  line-height: 16.94px;
+  padding-top: 6px;
+  padding-bottom: 7px;
+  letter-spacing: 5px;
+  padding-left: 12.45px;
+}
+.datos-personales h3 {
+  font-style: italic;
+  display: inline;
+}
+.datos-personales {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  line-height: 12.7px;
+}
+.datos-personales li {
+  margin: 5px 0;
+}
+.cronologico div * {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  line-height: 12.7px;
+  display: inline-block;
+}
+
+.cronologico h3 {
+    padding-left: 19px;
+}
+
+.cronologico ul {
+  list-style: none;
+}
+
+.cronologico ul li {
+  display: block;
+}
+.derechos-reservados {
+    background-color: #005677;
+    text-align: center;
+}
+.derechos-reservados * {
+    display: inline;
+}
+
+p {
+text-align: center;
+color: #FFFFFF;
+}
